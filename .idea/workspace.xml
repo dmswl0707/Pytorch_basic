@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="839bcbc8-bee0-4b3e-947e-f5bcd052fb87" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pytorch01-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytorch01.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytorch01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytorch01-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,5 +70,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1603359312283">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1603359312283" />
   </component>
 </project>
