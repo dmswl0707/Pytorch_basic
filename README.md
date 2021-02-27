@@ -1,4 +1,4 @@
-# pytorch_basic
+# Pytorch_For_NeuralNetwork
 
 머신러닝/딥러닝 파이썬 라이브러리
 - ch1.파이토치 문법 
